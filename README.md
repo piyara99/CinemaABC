@@ -63,71 +63,13 @@ ABC Cinema has been a leader in the film industry with a strong reputation for e
 ---
 
 ## Screenshots
+![Screenshot 1](assets/Screenshot%202025-12-26%20181405.png)
+![Screenshot 2](assets/Screenshot%202025-12-26%20181809.png)
+![Screenshot 3](assets/Screenshot%202025-12-26%20181831.png)
+![Screenshot 4](assets/Screenshot%202025-12-26%20181914.png)
+![Screenshot 5](assets/Screenshot%202025-12-26%20181927.png)
+![Screenshot 6](assets/Screenshot%202025-12-26%20181935.png)
 
-## Screenshots
-
-![Home Page](assets/Screenshot%202025-04-28%20234809.png)  
-*Home page showing featured movies.*
-
-![Movie Selection](assets/Screenshot%202025-05-05%20140405.png)  
-*Movie selection page with filters by genre and language.*
-
-![Movie Details](assets/Screenshot%202025-05-05%20140433.png)  
-*Detailed view of a selected movie.*
-
-![Showtime Selection](assets/Screenshot%202025-05-05%20140446.png)  
-*User selects preferred showtime for the movie.*
-
-![Seat Selection 1](assets/Screenshot%202025-05-05%20140714.png)  
-*Interactive seating chart - row view.*
-
-![Seat Selection 2](assets/Screenshot%202025-05-05%20140737.png)  
-*Selecting seats for booking.*
-
-![Seat Selection 3](assets/Screenshot%202025-05-05%20140745.png)  
-*Seats temporarily locked during reservation.*
-
-![Reservation Summary](assets/Screenshot%202025-05-05%20140813.png)  
-*Summary of selected movie, seats, and showtime.*
-
-![Payment Options](assets/Screenshot%202025-05-05%20140855.png)  
-*Payment portal with PayPal and card options.*
-
-![Payment Processing](assets/Screenshot%202025-05-05%20140912.png)  
-*Processing payment via PayPal.*
-
-![Payment Confirmation](assets/Screenshot%202025-05-05%20140928.png)  
-*Confirmation of successful payment.*
-
-![Invoice](assets/Screenshot%202025-05-05%20140940.png)  
-*Generated invoice for the reservation.*
-
-![Admin Dashboard](assets/Screenshot%202025-05-05%20141003.png)  
-*Admin panel showing system overview.*
-
-![Feedback Analysis](assets/Screenshot%202025-05-05%20141014.png)  
-*Graphical feedback visualization for admins.*
-
-![Notifications](assets/Screenshot%202025-05-05%20141026.png)  
-*Email and SMS notifications sent to users.*
-
-![Booking History](assets/Screenshot%202025-05-05%20141033.png)  
-*User can view their past bookings.*
-
-![Cancellation](assets/Screenshot%202025-05-05%20141042.png)  
-*Reservation cancellation process.*
-
-![Reports](assets/Screenshot%202025-05-05%20141211.png)  
-*Admin can generate reports on bookings and payments.*
-
-![Reports View](assets/Screenshot%202025-05-05%20141226.png)  
-*Viewing detailed reports in the admin panel.*
-
-![System Notifications](assets/Screenshot%202025-05-05%20141236.png)  
-*Sample system notifications sent to users.*
-
-![Mobile View](assets/Screenshot%202025-05-05%20141258.png)  
-*Responsive design view for mobile devices.*
  
 
 ---
